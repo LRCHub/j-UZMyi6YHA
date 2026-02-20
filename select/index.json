@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Desesperados",
+  "base_artist": "Rauw Alejandro & Chencho Corleone",
+  "createdAt": "2026-02-20T17:19:07.601054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro feat. Chencho Corleone",
+      "has_synced": true,
+      "path": "select/01_Desesperados_Rauw_Alejandro_feat._Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro feat. Chencho Corleone",
+      "has_synced": true,
+      "path": "select/02_Desesperados_Rauw_Alejandro_feat._Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro, Chencho Corleone",
+      "has_synced": true,
+      "path": "select/03_Desesperados_Rauw_Alejandro,_Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro, Chencho Corleone",
+      "has_synced": true,
+      "path": "select/04_Desesperados_Rauw_Alejandro,_Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/05_Desesperados_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/06_Desesperados_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro • Chencho Corleone",
+      "has_synced": true,
+      "path": "select/07_Desesperados_Rauw_Alejandro_•_Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Desesperados (Cachengue)",
+      "artist": "Mati Guerra feat. Tincho Del Puerto",
+      "has_synced": true,
+      "path": "select/08_Desesperados_(Cachengue)_Mati_Guerra_feat._Tincho_Del_Puerto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Desesperados (Cachengue)",
+      "artist": "Mati Guerra/Tincho Del Puerto",
+      "has_synced": true,
+      "path": "select/09_Desesperados_(Cachengue)_Mati_Guerra_Tincho_Del_Puerto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Desesperados (Versión maqueta)",
+      "artist": "Ilegales",
+      "has_synced": true,
+      "path": "select/10_Desesperados_(Versión_maqueta)_Ilegales.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Chencho Corleone",
+      "has_synced": true,
+      "path": "select/11_Desesperados_Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro, Chencho Corleone",
+      "has_synced": true,
+      "path": "select/12_Desesperados_Rauw_Alejandro,_Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/13_Desesperados_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro • Chencho Corleone",
+      "has_synced": true,
+      "path": "select/14_Desesperados_Rauw_Alejandro_•_Chencho_Corleone.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "De Desesperados",
+      "artist": "Alberto Wolf",
+      "has_synced": false,
+      "path": "select/15_De_Desesperados_Alberto_Wolf.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Desesperados Feat. Chencho Corleone",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/16_Desesperados_Feat._Chencho_Corleone_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Desesperados - Rauw Alejandro, Chencho Corleone (Letra/Lyrics)",
+      "artist": "Vibe Music",
+      "has_synced": true,
+      "path": "select/17_Desesperados_-_Rauw_Alejandro,_Chencho_Corleone_(Letra_Lyrics)_Vibe_Music.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Desesperados",
+      "artist": "Rauw Alejandro & Chencho Corleone",
+      "has_synced": false,
+      "path": "select/pl_01_Desesperados_Rauw_Alejandro_&_Chencho_Corleone.txt"
+    }
+  ]
+}
